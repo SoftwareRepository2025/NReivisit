@@ -1,4 +1,3 @@
-# NReivisit
 # Research Dataset for Developing Data-Driven Developer-Centric Software Complexity Metrics
 
 ## Open Science Commitment
